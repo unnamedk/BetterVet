@@ -31,7 +31,11 @@
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^5.1.1",
+<<<<<<< HEAD
     "ts-node-dev": "^1.1.8",
     "typescript": "^4.4.4"
+=======
+    "ts-node-dev": "^1.1.8"
+>>>>>>> 6e7d2d1041d8a340b1ad815ad71642c435ad0506
   }
 }
